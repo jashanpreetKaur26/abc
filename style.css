@@ -1,0 +1,78 @@
+/* DO NOT MODIFY THIS FILE */
+
+* {
+   box-sizing: border-box;
+}
+
+html {
+   font-family: Arial, Helvetica, sans-serif;
+   line-height: 1.6;
+   background-color: burlywood;
+}
+
+body {
+   width: 1000px;
+   margin: 0 auto;
+   padding: 0;
+   background-color: #fbf3ea;
+   color: #463b2e;
+}
+
+main {
+   padding: 1em;
+}
+
+header {
+   margin: 0;
+   padding: 1em;
+   color: #fbf3ea;
+   background-color: #463b2e;
+}
+h2 {
+   clear: both;
+}
+
+figure {
+   margin-top: 0;
+   border: 1px solid #463b2e;
+   width: 200px;
+   float: right;
+   clear: right;
+}
+
+figure img {
+   width: 100%;
+}
+
+figcaption {
+   padding: 0.4em;
+   font-size: 0.8em;
+}
+
+footer {
+   clear: both;
+   text-align: center;
+   margin: 0;
+   padding: 1em;
+   color: #fbf3ea;
+   background-color: #463b2e;
+}
+
+footer cite {
+   font-style: normal;
+}
+
+footer a {
+   text-decoration: none;
+   color: #b8860b;
+}
+
+footer a:hover {
+   text-decoration: underline overline;
+}
+
+.special {
+   color: rgb(204, 18, 8);
+}
+
+/* WEB230 Assignment 5a */
